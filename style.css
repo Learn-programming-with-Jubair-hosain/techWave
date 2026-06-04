@@ -56,7 +56,10 @@
     font-weight: 400;
 }
 .wave{
-     color: rgba(251, 9, 180, 1);
+     /* color: rgba(251, 9, 180, 1); */
+      background: linear-gradient(#ff0099, #f7e83fa4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 /*********** Audio section style***********/
 .audio{
@@ -280,3 +283,45 @@
     padding: 12px;
     border-radius: 50%;
 }
+/********** Footer Section Style ************/
+.footer{
+    background-image: url(./assets/footer-bg.png);
+    min-height: 412px;
+    position: relative;
+}
+.footer-container{
+    text-align: center;
+    gap: 32px;
+    position: absolute;
+    left: 530px;
+    top: 110px;
+}
+.logo{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.logo>div{
+    display: flex;
+    gap: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
