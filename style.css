@@ -31,11 +31,14 @@
 .btn{
     color: #FFFFFF;
     font-weight: 500;
-    background-color: deeppink;
+    background: linear-gradient(#FB6741, #DB489F);
     padding: 12.5px 30px 12.5px 30px;
     border: none;
     cursor: pointer;
     border-radius: 20px;
+}
+.b{
+    background: linear-gradient(#FB09B4, #9100F8, #F7E93F);
 }
 /****** Nav section style *****/
 .nav-content{
