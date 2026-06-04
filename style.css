@@ -56,10 +56,10 @@
     font-weight: 400;
 }
 .wave{
-     /* color: rgba(251, 9, 180, 1); */
-      background: linear-gradient(#ff0099, #f7e83fa4);
+     color: rgba(251, 9, 178, 0.788);
+      /* background: linear-gradient(#ff0099, #f7e83fa4);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent; */
 }
 /*********** Audio section style***********/
 .audio{
