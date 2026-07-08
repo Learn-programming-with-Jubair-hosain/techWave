@@ -40,6 +40,9 @@
 .b{
     background: linear-gradient(#FB09B4, #9100F8, #F7E93F);
 }
+#hide{
+    display: none;
+}
 /****** Nav section style *****/
 .nav-content{
     display: flex;
